@@ -6,3 +6,5 @@ A SkyBlock Flipping Mod.
 /nec toggle - Enables the mod to return a list of suggested items to flip whenever one is found.
 
 Discord - NotEnoughCoins#7907
+
+Works with forge 1.8.9
